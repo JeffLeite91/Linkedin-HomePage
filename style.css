@@ -1,0 +1,62 @@
+#login-container{
+    background-image: linear-gradient(to top, rgb(200, 223, 236),rgba(230, 236, 242, 0.841));
+    border-radius: 10px;
+    padding: 0px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.566);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    display: block;
+    margin: auto; 
+    padding-top: -20px;
+    min-width: 300px;    
+}
+
+div > img{
+    display: block;
+    margin: auto;   
+    
+}
+
+div input{
+    display: block;
+    margin: auto;
+    
+}
+
+
+#buttom{
+    background-color: rgb(241, 234, 234);
+    width: 80px;
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    margin: auto;
+
+}
+
+#login-container  p{
+    text-align: center;
+}
+
+#login-container a{
+    text-align: center;
+}
+
+div a{
+    display: block;
+    margin: auto;
+
+}
+
+
+picture a{
+    text-align: center;
+    display: block;
+    padding: 10px;
+    font-style: italic;
+}
+
+picture{
+    text-align: center;
+    display: block;
+}
